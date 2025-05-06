@@ -104,6 +104,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Directory`
   - **Pricing**: Free
   - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
+ 
+- [Online-Notes](https://online-notes.com/) - Minimalist browser-based note-taking tool with local storage and no login required  
+  - **Tags**: `Free` `Note-taking` `Productivity`  
+  - **Pricing**: Free  
+  - **Contact**: [https://twitter.com/emarketin1](https://twitter.com/emarketin1)
+
   
 ## Writing
 
