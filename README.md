@@ -34,6 +34,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
+    
+- [SpellChecking.net](https://spellchecking.net/) – Free AI-powered grammar and spelling checker  
+  - **Tags**: `Free` `AI` `Grammar` `Spelling` `Writing Assistant` `Proofreading`  
+  - **Pricing**: Completely free
 
 ## Image & Art
 
