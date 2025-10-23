@@ -34,6 +34,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Replika](https://replika.com) - An AI companion focused on emotional support and conversation.
   - **Tags**: `Free` `Subscription` `AI` `Companion` `Mental Health`
   - **Pricing**: Free, Premium
+ 
+- [Rephrazy](https://rephrazy.com/) - AI tools to create, optimize, and improve content for marketing and SEO.
+  - **Tags**: `Free` `Writing` `AI` `Paraphrasing` `Text Improvement`
+  - **Pricing**: Free
 
 ## Image & Art
 
